@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <personen-schaden schaden="session" action="http://www.google.de"/>
+    <personen-schaden schaden="session" action="http://www.google.de" resourceUrl="blub"/>
   </div>
 </template>
 
